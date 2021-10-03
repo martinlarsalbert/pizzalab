@@ -8,3 +8,4 @@ matplotlib
 jupyterlab
 ipywidgets>=7.6
 jupyter-dash
+sklearn
